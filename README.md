@@ -87,3 +87,9 @@ The Streamlit dashboard provides:
 B.Tech CSE (AI & ML)
 
 Academic Machine Learning Project
+
+
+## Live Demo
+
+Streamlit App:
+https://salesforecasting-demand-intelligence-zkpscvtdfkzyqjkuo2tvgv.streamlit.app/
