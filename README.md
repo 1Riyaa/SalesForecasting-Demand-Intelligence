@@ -14,30 +14,30 @@ This project presents an end-to-end sales forecasting and demand intelligence so
 ### 🏠 Home Page
 
 <img width="1917" height="866" alt="image" src="https://github.com/user-attachments/assets/f3d5f4e9-a0c8-4782-8b8c-cc7c9ce25680" />
-*Overview of the Sales Forecasting & Demand Intelligence dashboard.*
+Overview of the Sales Forecasting & Demand Intelligence dashboard.
 
 ---
 
 ### 📊 Exploratory Business Analysis
 
 <img width="1917" height="907" alt="image" src="https://github.com/user-attachments/assets/95c5a525-eca8-4e23-bffc-5f3c2d50aefb" />
-*Interactive dashboard displaying monthly sales trends, product category performance, regional sales, and customer segment analysis.*
+Interactive dashboard displaying monthly sales trends, product category performance, regional sales, and customer segment analysis.
 
 ---
 
 ### 📈 Forecast Explorer
 
 <img width="1917" height="832" alt="image" src="https://github.com/user-attachments/assets/f3893db3-6d88-4ccb-83f3-d7d4aa8e5611" />
-*Forecasts generated using SARIMA, Prophet, and XGBoost models.*
+Forecasts generated using SARIMA, Prophet, and XGBoost models.
 
 ---
 
 ### 🚨 Anomaly Report
 
 <img width="1888" height="835" alt="image" src="https://github.com/user-attachments/assets/345cd920-c9b7-4252-9c40-7b746d56a8a7" />
-*Detects unusual sales patterns using Isolation Forest and Z-Score anomaly detection techniques, helping identify sales spikes, drops, and potential business outliers through interactive visualizations.*
+Detects unusual sales patterns using Isolation Forest and Z-Score anomaly detection techniques, helping identify sales spikes, drops, and potential business outliers through interactive visualizations.
 
-*Comparison of forecasting models and eva
+---
 
 ## Features
 
