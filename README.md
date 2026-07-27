@@ -1,5 +1,10 @@
 # Sales Forecasting & Demand Intelligence System
 
+## Live Demo
+
+Streamlit App:
+https://salesforecasting-demand-intelligence-zkpscvtdfkzyqjkuo2tvgy.streamlit.app/
+
 ## Overview
 
 This project presents an end-to-end sales forecasting and demand intelligence solution developed using the Superstore dataset. It analyzes historical sales trends, compares multiple forecasting models, detects anomalies, segments products based on demand patterns, and provides an interactive dashboard for business decision-making.
@@ -89,7 +94,3 @@ B.Tech CSE (AI & ML)
 Academic Machine Learning Project
 
 
-## Live Demo
-
-Streamlit App:
-https://salesforecasting-demand-intelligence-zkpscvtdfkzyqjkuo2tvgy.streamlit.app/
