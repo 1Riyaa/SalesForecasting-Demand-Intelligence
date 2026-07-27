@@ -92,4 +92,4 @@ Academic Machine Learning Project
 ## Live Demo
 
 Streamlit App:
-https://salesforecasting-demand-intelligence-zkpscvtdfkzyqjkuo2tvgv.streamlit.app/
+https://salesforecasting-demand-intelligence-zkpscvtdfkzyqjkuo2tvgy.streamlit.app/
